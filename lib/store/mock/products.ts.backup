@@ -1,0 +1,2864 @@
+import { Product } from \"../types\";
+
+export const mockProducts: Product[] = [
+  {
+    \"id\": \"ipad-11-quot-md4a4ll-a-early-2025-blue-0\",
+    \"handle\": \"ipad-11-quot-md4a4ll-a-early-2025-blue\",
+    \"title\": \"iPad 11\" MD4A4LL/A (Early 2025) - Blue\",
+    \"description\": \"iPad 11\" MD4A4LL/A (Early 2025) - Blue\",
+    \"descriptionHtml\": \"<p>iPad 11\" MD4A4LL/A (Early 2025) - Blue</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad 11\" MD4A4LL/A (Early 2025) - Blue\",
+      \"url\": \"/product_images/ipads/0692629_830356.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad 11\" MD4A4LL/A (Early 2025) - Blue\",
+        \"url\": \"/product_images/ipads/0692629_830356.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-11-quot-md4a4ll-a-early-2025-blue-0-1\",
+        \"title\": \"iPad 11\" MD4A4LL/A (Early 2025) - Blue\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"349.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-11-quot-md3y4ll-a-early-2025-silver-1\",
+    \"handle\": \"ipad-11-quot-md3y4ll-a-early-2025-silver\",
+    \"title\": \"iPad 11\" MD3Y4LL/A (Early 2025) - Silver\",
+    \"description\": \"iPad 11\" MD3Y4LL/A (Early 2025) - Silver\",
+    \"descriptionHtml\": \"<p>iPad 11\" MD3Y4LL/A (Early 2025) - Silver</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad 11\" MD3Y4LL/A (Early 2025) - Silver\",
+      \"url\": \"/product_images/ipads/0692628_830018.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad 11\" MD3Y4LL/A (Early 2025) - Silver\",
+        \"url\": \"/product_images/ipads/0692628_830018.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-11-quot-md3y4ll-a-early-2025-silver-1-1\",
+        \"title\": \"iPad 11\" MD3Y4LL/A (Early 2025) - Silver\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"349.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-11-quot-md4e4ll-a-early-2025-pink-2\",
+    \"handle\": \"ipad-11-quot-md4e4ll-a-early-2025-pink\",
+    \"title\": \"iPad 11\" MD4E4LL/A (Early 2025) - Pink\",
+    \"description\": \"iPad 11\" MD4E4LL/A (Early 2025) - Pink\",
+    \"descriptionHtml\": \"<p>iPad 11\" MD4E4LL/A (Early 2025) - Pink</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad 11\" MD4E4LL/A (Early 2025) - Pink\",
+      \"url\": \"/product_images/ipads/0692631_830091.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad 11 MD4E4LL/A (Early 2025) - Pink\",
+        \"url\": \"/product_images/ipads/0692631_830091.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-11-quot-md4e4ll-a-early-2025-pink-2-1\",
+        \"title\": \"iPad 11\" MD4E4LL/A (Early 2025) - Pink\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"349.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-pro-13-quot-space-black-ultra-retina-xdr-display-3\",
+    \"handle\": \"ipad-pro-13-quot-space-black-ultra-retina-xdr-display\",
+    \"title\": \"iPad Pro 13\" - Space Black, Ultra Retina XDR display\",
+    \"description\": \"iPad Pro 13\" - Space Black, Ultra Retina XDR display\",
+    \"descriptionHtml\": \"<p>iPad Pro 13\" - Space Black, Ultra Retina XDR display</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Pro 13\" - Space Black, Ultra Retina XDR display\",
+      \"url\": \"/product_images/ipads/0702814_941641.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"1169.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"1169.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Pro 13\" - Space Black, Ultra Retina XDR display\",
+        \"url\": \"/product_images/ipads/0702814_941641.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-pro-13-quot-space-black-ultra-retina-xdr-display-3-1\",
+        \"title\": \"iPad Pro 13\" - Space Black, Ultra Retina XDR display\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"1169.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-pro-11-quot-space-black-ultra-retina-xdr-display-4\",
+    \"handle\": \"ipad-pro-11-quot-space-black-ultra-retina-xdr-display\",
+    \"title\": \"iPad Pro 11\" - Space Black, Ultra Retina XDR display\",
+    \"description\": \"iPad Pro 11\" - Space Black, Ultra Retina XDR display\",
+    \"descriptionHtml\": \"<p>iPad Pro 11\" - Space Black, Ultra Retina XDR display</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Pro 11\" - Space Black, Ultra Retina XDR display\",
+      \"url\": \"/product_images/ipads/0702806_941617.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Pro 11\" - Space Black, Ultra Retina XDR display\",
+        \"url\": \"/product_images/ipads/0702806_941617.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-pro-11-quot-space-black-ultra-retina-xdr-display-4-1\",
+        \"title\": \"iPad Pro 11\" - Space Black, Ultra Retina XDR display\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"899.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-pro-11-quot-silver-ultra-retina-xdr-display-5\",
+    \"handle\": \"ipad-pro-11-quot-silver-ultra-retina-xdr-display\",
+    \"title\": \"iPad Pro 11\" - Silver, Ultra Retina XDR display\",
+    \"description\": \"iPad Pro 11\" - Silver, Ultra Retina XDR display\",
+    \"descriptionHtml\": \"<p>iPad Pro 11\" - Silver, Ultra Retina XDR display</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Pro 11\" - Silver, Ultra Retina XDR display\",
+      \"url\": \"/product_images/ipads/0702807_941625.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Pro 11\" - Silver, Ultra Retina XDR display\",
+        \"url\": \"/product_images/ipads/0702807_941625.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-pro-11-quot-silver-ultra-retina-xdr-display-5-1\",
+        \"title\": \"iPad Pro 11\" - Silver, Ultra Retina XDR display\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"899.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-pro-13-quot-silver-ultra-retina-xdr-display-6\",
+    \"handle\": \"ipad-pro-13-quot-silver-ultra-retina-xdr-display\",
+    \"title\": \"iPad Pro 13\" - Silver, Ultra Retina XDR display\",
+    \"description\": \"iPad Pro 13\" - Silver, Ultra Retina XDR display\",
+    \"descriptionHtml\": \"<p>iPad Pro 13\" - Silver, Ultra Retina XDR display</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Pro 13\" - Silver, Ultra Retina XDR display\",
+      \"url\": \"/product_images/ipads/0702815_941674.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"1169.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"1169.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Pro 13\" - Silver, Ultra Retina XDR display\",
+        \"url\": \"/product_images/ipads/0702815_941674.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-pro-13-quot-silver-ultra-retina-xdr-display-6-1\",
+        \"title\": \"iPad Pro 13\" - Silver, Ultra Retina XDR display\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"1169.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-11-quot-mca14ll-a-early-2025-space-gray-7\",
+    \"handle\": \"ipad-air-11-quot-mca14ll-a-early-2025-space-gray\",
+    \"title\": \"iPad Air 11\" MCA14LL/A (Early 2025) - Space Gray\",
+    \"description\": \"iPad Air 11\" MCA14LL/A (Early 2025) - Space Gray\",
+    \"descriptionHtml\": \"<p>iPad Air 11\" MCA14LL/A (Early 2025) - Space Gray</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 11\" MCA14LL/A (Early 2025) - Space Gray\",
+      \"url\": \"/product_images/ipads/0692656_830323.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"599.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"599.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 11\" MCA14LL/A (Early 2025) - Space Gray\",
+        \"url\": \"/product_images/ipads/0692656_830323.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-11-quot-mca14ll-a-early-2025-space-gray-7-1\",
+        \"title\": \"iPad Air 11\" MCA14LL/A (Early 2025) - Space Gray\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"599.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-13-quot-mcnh4ll-a-early-2025-space-gray-8\",
+    \"handle\": \"ipad-air-13-quot-mcnh4ll-a-early-2025-space-gray\",
+    \"title\": \"iPad Air 13\" MCNH4LL/A (Early 2025) - Space Gray\",
+    \"description\": \"iPad Air 13\" MCNH4LL/A (Early 2025) - Space Gray\",
+    \"descriptionHtml\": \"<p>iPad Air 13\" MCNH4LL/A (Early 2025) - Space Gray</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 13\" MCNH4LL/A (Early 2025) - Space Gray\",
+      \"url\": \"/product_images/ipads/0692700_829945.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 13\" MCNH4LL/A (Early 2025) - Space Gray\",
+        \"url\": \"/product_images/ipads/0692700_829945.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-13-quot-mcnh4ll-a-early-2025-space-gray-8-1\",
+        \"title\": \"iPad Air 13\" MCNH4LL/A (Early 2025) - Space Gray\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"699.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-11-quot-mc9w4ll-a-early-2025-space-gray-9\",
+    \"handle\": \"ipad-air-11-quot-mc9w4ll-a-early-2025-space-gray\",
+    \"title\": \"iPad Air 11\" MC9W4LL/A (Early 2025) - Space Gray\",
+    \"description\": \"iPad Air 11\" MC9W4LL/A (Early 2025) - Space Gray\",
+    \"descriptionHtml\": \"<p>iPad Air 11\" MC9W4LL/A (Early 2025) - Space Gray</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 11\" MC9W4LL/A (Early 2025) - Space Gray\",
+      \"url\": \"/product_images/ipads/0692652_830174.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 11\" MC9W4LL/A (Early 2025) - Space Gray\",
+        \"url\": \"/product_images/ipads/0692652_830174.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-11-quot-mc9w4ll-a-early-2025-space-gray-9-1\",
+        \"title\": \"iPad Air 11\" MC9W4LL/A (Early 2025) - Space Gray\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-11-quot-mca04ll-a-early-2025-purple-10\",
+    \"handle\": \"ipad-air-11-quot-mca04ll-a-early-2025-purple\",
+    \"title\": \"iPad Air 11\" MCA04LL/A (Early 2025) - Purple\",
+    \"description\": \"iPad Air 11\" MCA04LL/A (Early 2025) - Purple\",
+    \"descriptionHtml\": \"<p>iPad Air 11\" MCA04LL/A (Early 2025) - Purple</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 11\" MCA04LL/A (Early 2025) - Purple\",
+      \"url\": \"/product_images/ipads/0692655_830281.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 11\" MCA04LL/A (Early 2025) - Purple\",
+        \"url\": \"/product_images/ipads/0692655_830281.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-11-quot-mca04ll-a-early-2025-purple-10-1\",
+        \"title\": \"iPad Air 11\" MCA04LL/A (Early 2025) - Purple\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-11-quot-md4d4ll-a-early-2025-yellow-11\",
+    \"handle\": \"ipad-11-quot-md4d4ll-a-early-2025-yellow\",
+    \"title\": \"iPad 11\" MD4D4LL/A (Early 2025) - Yellow\",
+    \"description\": \"iPad 11\" MD4D4LL/A (Early 2025) - Yellow\",
+    \"descriptionHtml\": \"<p>iPad 11\" MD4D4LL/A (Early 2025) - Yellow</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad 11\" MD4D4LL/A (Early 2025) - Yellow\",
+      \"url\": \"/product_images/ipads/0692630_830059.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"349.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad 11\" MD4D4LL/A (Early 2025) - Yellow\",
+        \"url\": \"/product_images/ipads/0692630_830059.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-11-quot-md4d4ll-a-early-2025-yellow-11-1\",
+        \"title\": \"iPad 11\" MD4D4LL/A (Early 2025) - Yellow\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"349.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-13-quot-mcnn4ll-a-early-2025-space-gray-12\",
+    \"handle\": \"ipad-air-13-quot-mcnn4ll-a-early-2025-space-gray\",
+    \"title\": \"iPad Air 13\" MCNN4LL/A (Early 2025) - Space Gray\",
+    \"description\": \"iPad Air 13\" MCNN4LL/A (Early 2025) - Space Gray\",
+    \"descriptionHtml\": \"<p>iPad Air 13\" MCNN4LL/A (Early 2025) - Space Gray</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 13\" MCNN4LL/A (Early 2025) - Space Gray\",
+      \"url\": \"/product_images/ipads/0692704_830026.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 13\" MCNN4LL/A (Early 2025) - Space Gray\",
+        \"url\": \"/product_images/ipads/0692704_830026.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-13-quot-mcnn4ll-a-early-2025-space-gray-12-1\",
+        \"title\": \"iPad Air 13\" MCNN4LL/A (Early 2025) - Space Gray\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"799.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-13-quot-mcnl4ll-a-early-2025-purple-13\",
+    \"handle\": \"ipad-air-13-quot-mcnl4ll-a-early-2025-purple\",
+    \"title\": \"iPad Air 13\" MCNL4LL/A (Early 2025) - Purple\",
+    \"description\": \"iPad Air 13\" MCNL4LL/A (Early 2025) - Purple\",
+    \"descriptionHtml\": \"<p>iPad Air 13\" MCNL4LL/A (Early 2025) - Purple</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 13\" MCNL4LL/A (Early 2025) - Purple\",
+      \"url\": \"/product_images/ipads/0692703_829994.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 13\" MCNL4LL/A (Early 2025) - Purple\",
+        \"url\": \"/product_images/ipads/0692703_829994.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-13-quot-mcnl4ll-a-early-2025-purple-13-1\",
+        \"title\": \"iPad Air 13\" MCNL4LL/A (Early 2025) - Purple\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"699.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-11-quot-mc9x4ll-a-early-2025-blue-14\",
+    \"handle\": \"ipad-air-11-quot-mc9x4ll-a-early-2025-blue\",
+    \"title\": \"iPad Air 11\" MC9X4LL/A (Early 2025) - Blue\",
+    \"description\": \"iPad Air 11\" MC9X4LL/A (Early 2025) - Blue\",
+    \"descriptionHtml\": \"<p>iPad Air 11\" MC9X4LL/A (Early 2025) - Blue</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 11\" MC9X4LL/A (Early 2025) - Blue\",
+      \"url\": \"/product_images/ipads/0692653_830240.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 11\" MC9X4LL/A (Early 2025) - Blue\",
+        \"url\": \"/product_images/ipads/0692653_830240.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-11-quot-mc9x4ll-a-early-2025-blue-14-1\",
+        \"title\": \"iPad Air 11\" MC9X4LL/A (Early 2025) - Blue\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-11-quot-md7f4ll-a-early-2025-silver-15\",
+    \"handle\": \"ipad-11-quot-md7f4ll-a-early-2025-silver\",
+    \"title\": \"iPad 11\" MD7F4LL/A (Early 2025) - Silver\",
+    \"description\": \"iPad 11\" MD7F4LL/A (Early 2025) - Silver\",
+    \"descriptionHtml\": \"<p>iPad 11\" MD7F4LL/A (Early 2025) - Silver</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad 11\" MD7F4LL/A (Early 2025) - Silver\",
+      \"url\": \"/product_images/ipads/0692640_830067.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad 11\" MD7F4LL/A (Early 2025) - Silver\",
+        \"url\": \"/product_images/ipads/0692640_830067.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-11-quot-md7f4ll-a-early-2025-silver-15-1\",
+        \"title\": \"iPad 11\" MD7F4LL/A (Early 2025) - Silver\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-11-quot-md4h4ll-a-early-2025-blue-16\",
+    \"handle\": \"ipad-11-quot-md4h4ll-a-early-2025-blue\",
+    \"title\": \"iPad 11\" MD4H4LL/A (Early 2025) - Blue\",
+    \"description\": \"iPad 11\" MD4H4LL/A (Early 2025) - Blue\",
+    \"descriptionHtml\": \"<p>iPad 11\" MD4H4LL/A (Early 2025) - Blue</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad 11\" MD4H4LL/A (Early 2025) - Blue\",
+      \"url\": \"/product_images/ipads/0692633_830182.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"449.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"449.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad 11\" MD4H4LL/A (Early 2025) - Blue\",
+        \"url\": \"/product_images/ipads/0692633_830182.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-11-quot-md4h4ll-a-early-2025-blue-16-1\",
+        \"title\": \"iPad 11\" MD4H4LL/A (Early 2025) - Blue\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"449.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-13-quot-mcnj4ll-a-early-2025-blue-17\",
+    \"handle\": \"ipad-air-13-quot-mcnj4ll-a-early-2025-blue\",
+    \"title\": \"iPad Air 13\" MCNJ4LL/A (Early 2025) - Blue\",
+    \"description\": \"iPad Air 13\" MCNJ4LL/A (Early 2025) - Blue\",
+    \"descriptionHtml\": \"<p>iPad Air 13\" MCNJ4LL/A (Early 2025) - Blue</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 13\" MCNJ4LL/A (Early 2025) - Blue\",
+      \"url\": \"/product_images/ipads/0692701_829952.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 13\" MCNJ4LL/A (Early 2025) - Blue\",
+        \"url\": \"/product_images/ipads/0692701_829952.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-13-quot-mcnj4ll-a-early-2025-blue-17-1\",
+        \"title\": \"iPad Air 13\" MCNJ4LL/A (Early 2025) - Blue\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"699.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-mini-8-3-quot-mxn63ll-a-late-2024-space-gray-18\",
+    \"handle\": \"ipad-mini-8-3-quot-mxn63ll-a-late-2024-space-gray\",
+    \"title\": \"iPad mini 8.3\" MXN63LL/A (Late 2024) - Space Gray\",
+    \"description\": \"iPad mini 8.3\" MXN63LL/A (Late 2024) - Space Gray\",
+    \"descriptionHtml\": \"<p>iPad mini 8.3\" MXN63LL/A (Late 2024) - Space Gray</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad mini 8.3\" MXN63LL/A (Late 2024) - Space Gray\",
+      \"url\": \"/product_images/ipads/0687622_773465.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad mini 8.3\" MXN63LL/A (Late 2024) - Space Gray\",
+        \"url\": \"/product_images/ipads/0687622_773465.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-mini-8-3-quot-mxn63ll-a-late-2024-space-gray-18-1\",
+        \"title\": \"iPad mini 8.3\" MXN63LL/A (Late 2024) - Space Gray\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-mini-8-3-quot-mxn93ll-a-late-2024-purple-19\",
+    \"handle\": \"ipad-mini-8-3-quot-mxn93ll-a-late-2024-purple\",
+    \"title\": \"iPad mini 8.3\" MXN93LL/A (Late 2024) - Purple\",
+    \"description\": \"iPad mini 8.3\" MXN93LL/A (Late 2024) - Purple\",
+    \"descriptionHtml\": \"<p>iPad mini 8.3\" MXN93LL/A (Late 2024) - Purple</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad mini 8.3\" MXN93LL/A (Late 2024) - Purple\",
+      \"url\": \"/product_images/ipads/0687625_773499.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad mini 8.3\" MXN93LL/A (Late 2024) - Purple\",
+        \"url\": \"/product_images/ipads/0687625_773499.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-mini-8-3-quot-mxn93ll-a-late-2024-purple-19-1\",
+        \"title\": \"iPad mini 8.3\" MXN93LL/A (Late 2024) - Purple\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-11-quot-md4g4ll-a-early-2025-silver-20\",
+    \"handle\": \"ipad-11-quot-md4g4ll-a-early-2025-silver\",
+    \"title\": \"iPad 11\" MD4G4LL/A (Early 2025) - Silver\",
+    \"description\": \"iPad 11\" MD4G4LL/A (Early 2025) - Silver\",
+    \"descriptionHtml\": \"<p>iPad 11\" MD4G4LL/A (Early 2025) - Silver</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad 11\" MD4G4LL/A (Early 2025) - Silver\",
+      \"url\": \"/product_images/ipads/0692632_830158.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"449.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"449.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad 11\" MD4G4LL/A (Early 2025) - Silver\",
+        \"url\": \"/product_images/ipads/0692632_830158.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-11-quot-md4g4ll-a-early-2025-silver-20-1\",
+        \"title\": \"iPad 11\" MD4G4LL/A (Early 2025) - Silver\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"449.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-13-quot-mcnr4ll-a-early-2025-purple-21\",
+    \"handle\": \"ipad-air-13-quot-mcnr4ll-a-early-2025-purple\",
+    \"title\": \"iPad Air 13\" MCNR4LL/A (Early 2025) - Purple\",
+    \"description\": \"iPad Air 13\" MCNR4LL/A (Early 2025) - Purple\",
+    \"descriptionHtml\": \"<p>iPad Air 13\" MCNR4LL/A (Early 2025) - Purple</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 13\" MCNR4LL/A (Early 2025) - Purple\",
+      \"url\": \"/product_images/ipads/0692707_830109.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 13\" MCNR4LL/A (Early 2025) - Purple\",
+        \"url\": \"/product_images/ipads/0692707_830109.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-13-quot-mcnr4ll-a-early-2025-purple-21-1\",
+        \"title\": \"iPad Air 13\" MCNR4LL/A (Early 2025) - Purple\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"799.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-13-quot-mcnk4ll-a-early-2025-starlight-22\",
+    \"handle\": \"ipad-air-13-quot-mcnk4ll-a-early-2025-starlight\",
+    \"title\": \"iPad Air 13\" MCNK4LL/A (Early 2025) - Starlight\",
+    \"description\": \"iPad Air 13\" MCNK4LL/A (Early 2025) - Starlight\",
+    \"descriptionHtml\": \"<p>iPad Air 13\" MCNK4LL/A (Early 2025) - Starlight</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 13\" MCNK4LL/A (Early 2025) - Starlight\",
+      \"url\": \"/product_images/ipads/0692702_829986.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"699.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 13\" MCNK4LL/A (Early 2025) - Starlight\",
+        \"url\": \"/product_images/ipads/0692702_829986.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-13-quot-mcnk4ll-a-early-2025-starlight-22-1\",
+        \"title\": \"iPad Air 13\" MCNK4LL/A (Early 2025) - Starlight\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"699.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-pro-13-silver-2025-23\",
+    \"handle\": \"ipad-pro-13-silver-2025\",
+    \"title\": \"iPad Pro 13 - Silver (2025)\",
+    \"description\": \"iPad Pro 13 - Silver (2025)\",
+    \"descriptionHtml\": \"<p>iPad Pro 13 - Silver (2025)</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Pro 13 - Silver (2025)\",
+      \"url\": \"/product_images/ipads/0702817_941690.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"1349.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"1349.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Pro 13 - Silver (2025)\",
+        \"url\": \"/product_images/ipads/0702817_941690.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-pro-13-silver-2025-23-1\",
+        \"title\": \"iPad Pro 13 - Silver (2025)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"1349.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"ipad-air-11-quot-mca74ll-a-early-2025-space-gray-24\",
+    \"handle\": \"ipad-air-11-quot-mca74ll-a-early-2025-space-gray\",
+    \"title\": \"iPad Air 11\" MCA74LL/A (Early 2025) - Space Gray\",
+    \"description\": \"iPad Air 11\" MCA74LL/A (Early 2025) - Space Gray\",
+    \"descriptionHtml\": \"<p>iPad Air 11\" MCA74LL/A (Early 2025) - Space Gray</p>\",
+    \"categoryId\": \"ipads\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"iPad Air 11\" MCA74LL/A (Early 2025) - Space Gray\",
+      \"url\": \"/product_images/ipads/0692660_830380.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"iPad Air 11\" MCA74LL/A (Early 2025) - Space Gray\",
+        \"url\": \"/product_images/ipads/0692660_830380.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"ipad-air-11-quot-mca74ll-a-early-2025-space-gray-24-1\",
+        \"title\": \"iPad Air 11\" MCA74LL/A (Early 2025) - Space Gray\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"899.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"airpods-4-active-noise-cancelling-true-wireless-bluetooth-earbuds-white-25\",
+    \"handle\": \"airpods-4-active-noise-cancelling-true-wireless-bluetooth-earbuds-white\",
+    \"title\": \"AirPods 4 Active Noise Cancelling True Wireless Bluetooth Earbuds - White\",
+    \"description\": \"AirPods 4 Active Noise Cancelling True Wireless Bluetooth Earbuds - White\",
+    \"descriptionHtml\": \"<p>AirPods 4 Active Noise Cancelling True Wireless Bluetooth Earbuds - White</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"AirPods 4 Active Noise Cancelling True Wireless Bluetooth Earbuds - White\",
+      \"url\": \"/product_images/airpods/0685742_757427.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"179.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"179.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"AirPods 4 Active Noise Cancelling True Wireless Bluetooth Earbuds - White\",
+        \"url\": \"/product_images/airpods/0685742_757427.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"airpods-4-active-noise-cancelling-true-wireless-bluetooth-earbuds-white-25-1\",
+        \"title\": \"AirPods 4 Active Noise Cancelling True Wireless Bluetooth Earbuds - White\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"179.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"airpods-4-true-wireless-bluetooth-earbuds-white-26\",
+    \"handle\": \"airpods-4-true-wireless-bluetooth-earbuds-white\",
+    \"title\": \"AirPods 4 True Wireless Bluetooth Earbuds - White\",
+    \"description\": \"AirPods 4 True Wireless Bluetooth Earbuds - White\",
+    \"descriptionHtml\": \"<p>AirPods 4 True Wireless Bluetooth Earbuds - White</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"AirPods 4 True Wireless Bluetooth Earbuds - White\",
+      \"url\": \"/product_images/airpods/0685741_757419.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"129.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"129.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"AirPods 4 True Wireless Bluetooth Earbuds - White\",
+        \"url\": \"/product_images/airpods/0685741_757419.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"airpods-4-true-wireless-bluetooth-earbuds-white-26-1\",
+        \"title\": \"AirPods 4 True Wireless Bluetooth Earbuds - White\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"129.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-midnight-27\",
+    \"handle\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-midnight\",
+    \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Midnight\",
+    \"description\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Midnight\",
+    \"descriptionHtml\": \"<p>AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Midnight</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Midnight\",
+      \"url\": \"/product_images/airpods/0685736_757369.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Midnight\",
+        \"url\": \"/product_images/airpods/0685736_757369.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-midnight-27-1\",
+        \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Midnight\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"549.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-purple-28\",
+    \"handle\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-purple\",
+    \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Purple\",
+    \"description\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Purple\",
+    \"descriptionHtml\": \"<p>AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Purple</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Purple\",
+      \"url\": \"/product_images/airpods/0685740_757401.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Purple\",
+        \"url\": \"/product_images/airpods/0685740_757401.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-purple-28-1\",
+        \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Purple\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"549.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-starlight-29\",
+    \"handle\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-starlight\",
+    \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Starlight\",
+    \"description\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Starlight\",
+    \"descriptionHtml\": \"<p>AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Starlight</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Starlight\",
+      \"url\": \"/product_images/airpods/0685737_757377.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Starlight\",
+        \"url\": \"/product_images/airpods/0685737_757377.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-starlight-29-1\",
+        \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Starlight\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"549.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"zentry-case-for-2nd-gen-airpod-pro-30\",
+    \"handle\": \"zentry-case-for-2nd-gen-airpod-pro\",
+    \"title\": \"Zentry Case for 2nd Gen AirPod Pro\",
+    \"description\": \"Zentry Case for 2nd Gen AirPod Pro\",
+    \"descriptionHtml\": \"<p>Zentry Case for 2nd Gen AirPod Pro</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Zentry Case for 2nd Gen AirPod Pro\",
+      \"url\": \"/product_images/airpods/0669251_598417.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"19.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"19.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Zentry Case for 2nd Gen AirPod Pro\",
+        \"url\": \"/product_images/airpods/0669251_598417.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"zentry-case-for-2nd-gen-airpod-pro-30-1\",
+        \"title\": \"Zentry Case for 2nd Gen AirPod Pro\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"19.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-blue-31\",
+    \"handle\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-blue\",
+    \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Blue\",
+    \"description\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Blue\",
+    \"descriptionHtml\": \"<p>AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Blue</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Blue\",
+      \"url\": \"/product_images/airpods/0685738_757385.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Blue\",
+        \"url\": \"/product_images/airpods/0685738_757385.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-blue-31-1\",
+        \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Blue\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"549.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-orange-32\",
+    \"handle\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-orange\",
+    \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Orange\",
+    \"description\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Orange\",
+    \"descriptionHtml\": \"<p>AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Orange</p>\",
+    \"categoryId\": \"airpods\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Orange\",
+      \"url\": \"/product_images/airpods/0685739_757393.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"549.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Orange\",
+        \"url\": \"/product_images/airpods/0685739_757393.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"airpods-max-active-noise-cancelling-wireless-bluetooth-headphones-orange-32-1\",
+        \"title\": \"AirPods Max Active Noise Cancelling Wireless Bluetooth Headphones - Orange\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"549.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-3-49mm-bluetooth-cellular-black-33\",
+    \"handle\": \"watch-ultra-3-49mm-bluetooth-cellular-black\",
+    \"title\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+    \"description\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+    \"descriptionHtml\": \"<p>Watch Ultra 3 49mm Bluetooth Cellular - Black</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+      \"url\": \"/product_images/watch/0701408_925016.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+        \"url\": \"/product_images/watch/0701408_925016.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-3-49mm-bluetooth-cellular-black-33-1\",
+        \"title\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"799.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-se-3-gps-40mm-bluetooth-starlight-s-m-34\",
+    \"handle\": \"watch-se-3-gps-40mm-bluetooth-starlight-s-m\",
+    \"title\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight (S/M)\",
+    \"description\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight (S/M)\",
+    \"descriptionHtml\": \"<p>Watch SE 3 GPS 40mm Bluetooth - Starlight (S/M)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight (S/M)\",
+      \"url\": \"/product_images/watch/0701330_925792.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"249.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"249.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight (S/M)\",
+        \"url\": \"/product_images/watch/0701330_925792.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-se-3-gps-40mm-bluetooth-starlight-s-m-34-1\",
+        \"title\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight (S/M)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"249.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-se-3-gps-40mm-bluetooth-midnight-35\",
+    \"handle\": \"watch-se-3-gps-40mm-bluetooth-midnight\",
+    \"title\": \"Watch SE 3 GPS 40mm Bluetooth - Midnight\",
+    \"description\": \"Watch SE 3 GPS 40mm Bluetooth - Midnight\",
+    \"descriptionHtml\": \"<p>Watch SE 3 GPS 40mm Bluetooth - Midnight</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch SE 3 GPS 40mm Bluetooth - Midnight\",
+      \"url\": \"/product_images/watch/0701333_925040.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"249.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"249.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch SE 3 GPS 40mm Bluetooth - Midnight\",
+        \"url\": \"/product_images/watch/0701333_925040.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-se-3-gps-40mm-bluetooth-midnight-35-1\",
+        \"title\": \"Watch SE 3 GPS 40mm Bluetooth - Midnight\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"249.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-se-3-gps-44mm-bluetooth-midnight-36\",
+    \"handle\": \"watch-se-3-gps-44mm-bluetooth-midnight\",
+    \"title\": \"Watch SE 3 GPS 44mm Bluetooth - Midnight\",
+    \"description\": \"Watch SE 3 GPS 44mm Bluetooth - Midnight\",
+    \"descriptionHtml\": \"<p>Watch SE 3 GPS 44mm Bluetooth - Midnight</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch SE 3 GPS 44mm Bluetooth - Midnight\",
+      \"url\": \"/product_images/watch/0701337_925065.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"279.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"279.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch SE 3 GPS 44mm Bluetooth - Midnight\",
+        \"url\": \"/product_images/watch/0701337_925065.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-se-3-gps-44mm-bluetooth-midnight-36-1\",
+        \"title\": \"Watch SE 3 GPS 44mm Bluetooth - Midnight\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"279.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-11-gps-46mm-bluetooth-jet-black-37\",
+    \"handle\": \"watch-series-11-gps-46mm-bluetooth-jet-black\",
+    \"title\": \"Watch Series 11 GPS 46mm Bluetooth - Jet Black\",
+    \"description\": \"Watch Series 11 GPS 46mm Bluetooth - Jet Black\",
+    \"descriptionHtml\": \"<p>Watch Series 11 GPS 46mm Bluetooth - Jet Black</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 11 GPS 46mm Bluetooth - Jet Black\",
+      \"url\": \"/product_images/watch/0701355_924951.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"429.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"429.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 11 GPS 46mm Bluetooth - Jet Black\",
+        \"url\": \"/product_images/watch/0701355_924951.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-11-gps-46mm-bluetooth-jet-black-37-1\",
+        \"title\": \"Watch Series 11 GPS 46mm Bluetooth - Jet Black\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"429.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-3-49mm-bluetooth-cellular-black-s-m-38\",
+    \"handle\": \"watch-ultra-3-49mm-bluetooth-cellular-black-s-m\",
+    \"title\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black (S/M)\",
+    \"description\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black (S/M)\",
+    \"descriptionHtml\": \"<p>Watch Ultra 3 49mm Bluetooth Cellular - Black (S/M)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black (S/M)\",
+      \"url\": \"/product_images/watch/0701412_925784.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black (S/M)\",
+        \"url\": \"/product_images/watch/0701412_925784.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-3-49mm-bluetooth-cellular-black-s-m-38-1\",
+        \"title\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black (S/M)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"799.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-11-gps-42mm-bluetooth-rose-gold-39\",
+    \"handle\": \"watch-series-11-gps-42mm-bluetooth-rose-gold\",
+    \"title\": \"Watch Series 11 GPS 42mm Bluetooth - Rose Gold\",
+    \"description\": \"Watch Series 11 GPS 42mm Bluetooth - Rose Gold\",
+    \"descriptionHtml\": \"<p>Watch Series 11 GPS 42mm Bluetooth - Rose Gold</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 11 GPS 42mm Bluetooth - Rose Gold\",
+      \"url\": \"/product_images/watch/0701351_924936.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"399.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"399.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 11 GPS 42mm Bluetooth - Rose Gold\",
+        \"url\": \"/product_images/watch/0701351_924936.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-11-gps-42mm-bluetooth-rose-gold-39-1\",
+        \"title\": \"Watch Series 11 GPS 42mm Bluetooth - Rose Gold\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"399.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-11-gps-46mm-bluetooth-rose-gold-40\",
+    \"handle\": \"watch-series-11-gps-46mm-bluetooth-rose-gold\",
+    \"title\": \"Watch Series 11 GPS 46mm Bluetooth - Rose Gold\",
+    \"description\": \"Watch Series 11 GPS 46mm Bluetooth - Rose Gold\",
+    \"descriptionHtml\": \"<p>Watch Series 11 GPS 46mm Bluetooth - Rose Gold</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 11 GPS 46mm Bluetooth - Rose Gold\",
+      \"url\": \"/product_images/watch/0701359_925008.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"429.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"429.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 11 GPS 46mm Bluetooth - Rose Gold\",
+        \"url\": \"/product_images/watch/0701359_925008.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-11-gps-46mm-bluetooth-rose-gold-40-1\",
+        \"title\": \"Watch Series 11 GPS 46mm Bluetooth - Rose Gold\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"429.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-2-gps-cellular-49mm-black-titanium-m-l-refurbished-41\",
+    \"handle\": \"watch-ultra-2-gps-cellular-49mm-black-titanium-m-l-refurbished\",
+    \"title\": \"Watch Ultra 2 GPS Cellular 49mm Black Titanium - M/L (Refurbished)\",
+    \"description\": \"Watch Ultra 2 GPS Cellular 49mm Black Titanium - M/L (Refurbished)\",
+    \"descriptionHtml\": \"<p>Watch Ultra 2 GPS Cellular 49mm Black Titanium - M/L (Refurbished)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 2 GPS Cellular 49mm Black Titanium - M/L (Refurbished)\",
+      \"url\": \"/product_images/watch/0703033_943175.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 2 GPS Cellular 49mm Black Titanium - M/L (Refurbished)\",
+        \"url\": \"/product_images/watch/0703033_943175.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-2-gps-cellular-49mm-black-titanium-m-l-refurbished-41-1\",
+        \"title\": \"Watch Ultra 2 GPS Cellular 49mm Black Titanium - M/L (Refurbished)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-orange-ocean-band-m-l-refurbished-42\",
+    \"handle\": \"watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-orange-ocean-band-m-l-refurbished\",
+    \"title\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with Orange Ocean Band - M/L (Refurbished)\",
+    \"description\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with Orange Ocean Band - M/L (Refurbished)\",
+    \"descriptionHtml\": \"<p>Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with Orange Ocean Band - M/L (Refurbished)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with Orange Ocean Band - M/L (Refurbished)\",
+      \"url\": \"/product_images/watch/0702287_934729.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with Orange Ocean Band - M/L (Refurbished)\",
+        \"url\": \"/product_images/watch/0702287_934729.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-orange-ocean-band-m-l-refurbished-42-1\",
+        \"title\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with Orange Ocean Band - M/L (Refurbished)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-se-3-gps-40mm-bluetooth-starlight-43\",
+    \"handle\": \"watch-se-3-gps-40mm-bluetooth-starlight\",
+    \"title\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight\",
+    \"description\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight\",
+    \"descriptionHtml\": \"<p>Watch SE 3 GPS 40mm Bluetooth - Starlight</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight\",
+      \"url\": \"/product_images/watch/0701331_925032.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"249.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"249.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight\",
+        \"url\": \"/product_images/watch/0701331_925032.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-se-3-gps-40mm-bluetooth-starlight-43-1\",
+        \"title\": \"Watch SE 3 GPS 40mm Bluetooth - Starlight\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"249.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-10-gps-cellular-42mm-jet-black-aluminum-case-with-ink-sport-loop-44\",
+    \"handle\": \"watch-series-10-gps-cellular-42mm-jet-black-aluminum-case-with-ink-sport-loop\",
+    \"title\": \"Watch Series 10 GPS + Cellular 42mm Jet Black Aluminum Case with Ink Sport Loop\",
+    \"description\": \"Watch Series 10 GPS + Cellular 42mm Jet Black Aluminum Case with Ink Sport Loop\",
+    \"descriptionHtml\": \"<p>Watch Series 10 GPS + Cellular 42mm Jet Black Aluminum Case with Ink Sport Loop</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 10 GPS + Cellular 42mm Jet Black Aluminum Case with Ink Sport Loop\",
+      \"url\": \"/product_images/watch/0686052_757617.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"388.79\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"388.79\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 10 GPS + Cellular 42mm Jet Black Aluminum Case with Ink Sport Loop\",
+        \"url\": \"/product_images/watch/0686052_757617.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-10-gps-cellular-42mm-jet-black-aluminum-case-with-ink-sport-loop-44-1\",
+        \"title\": \"Watch Series 10 GPS + Cellular 42mm Jet Black Aluminum Case with Ink Sport Loop\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"388.79\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-10-gps-cellular-46mm-jet-black-aluminum-case-with-black-sport-band-45\",
+    \"handle\": \"watch-series-10-gps-cellular-46mm-jet-black-aluminum-case-with-black-sport-band\",
+    \"title\": \"Watch Series 10 GPS Cellular 46mm Jet Black Aluminum Case with Black Sport Band\",
+    \"description\": \"Watch Series 10 GPS Cellular 46mm Jet Black Aluminum Case with Black Sport Band\",
+    \"descriptionHtml\": \"<p>Watch Series 10 GPS Cellular 46mm Jet Black Aluminum Case with Black Sport Band</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 10 GPS Cellular 46mm Jet Black Aluminum Case with Black Sport Band\",
+      \"url\": \"/product_images/watch/0686064_757625.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"429.29\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"429.29\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 10 GPS Cellular 46mm Jet Black Aluminum Case with Black Sport Band\",
+        \"url\": \"/product_images/watch/0686064_757625.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-10-gps-cellular-46mm-jet-black-aluminum-case-with-black-sport-band-45-1\",
+        \"title\": \"Watch Series 10 GPS Cellular 46mm Jet Black Aluminum Case with Black Sport Band\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"429.29\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-3-gps-49mm-cellular-bluetooth-natural-titanium-case-with-blue-bright-blue-trail-loop-m-l-46\",
+    \"handle\": \"watch-ultra-3-gps-49mm-cellular-bluetooth-natural-titanium-case-with-blue-bright-blue-trail-loop-m-l\",
+    \"title\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Blue/Bright Blue Trail Loop (M/L)\",
+    \"description\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Blue/Bright Blue Trail Loop (M/L)\",
+    \"descriptionHtml\": \"<p>Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Blue/Bright Blue Trail Loop (M/L)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Blue/Bright Blue Trail Loop (M/L)\",
+      \"url\": \"/product_images/watch/0701404_925743.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Blue/Bright Blue Trail Loop (M/L)\",
+        \"url\": \"/product_images/watch/0701404_925743.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-3-gps-49mm-cellular-bluetooth-natural-titanium-case-with-blue-bright-blue-trail-loop-m-l-46-1\",
+        \"title\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Blue/Bright Blue Trail Loop (M/L)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"799.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-11-gps-46mm-bluetooth-space-gray-47\",
+    \"handle\": \"watch-series-11-gps-46mm-bluetooth-space-gray\",
+    \"title\": \"Watch Series 11 GPS 46mm Bluetooth - Space Gray\",
+    \"description\": \"Watch Series 11 GPS 46mm Bluetooth - Space Gray\",
+    \"descriptionHtml\": \"<p>Watch Series 11 GPS 46mm Bluetooth - Space Gray</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 11 GPS 46mm Bluetooth - Space Gray\",
+      \"url\": \"/product_images/watch/0701357_924993.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"429.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"429.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 11 GPS 46mm Bluetooth - Space Gray\",
+        \"url\": \"/product_images/watch/0701357_924993.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-11-gps-46mm-bluetooth-space-gray-47-1\",
+        \"title\": \"Watch Series 11 GPS 46mm Bluetooth - Space Gray\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"429.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-se-3-gps-44mm-bluetooth-starlight-48\",
+    \"handle\": \"watch-se-3-gps-44mm-bluetooth-starlight\",
+    \"title\": \"Watch SE 3 GPS 44mm Bluetooth - Starlight\",
+    \"description\": \"Watch SE 3 GPS 44mm Bluetooth - Starlight\",
+    \"descriptionHtml\": \"<p>Watch SE 3 GPS 44mm Bluetooth - Starlight</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch SE 3 GPS 44mm Bluetooth - Starlight\",
+      \"url\": \"/product_images/watch/0701335_925057.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"279.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"279.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch SE 3 GPS 44mm Bluetooth - Starlight\",
+        \"url\": \"/product_images/watch/0701335_925057.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-se-3-gps-44mm-bluetooth-starlight-48-1\",
+        \"title\": \"Watch SE 3 GPS 44mm Bluetooth - Starlight\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"279.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-1-49mm-titanium-case-silver-black-refurbished-49\",
+    \"handle\": \"watch-ultra-1-49mm-titanium-case-silver-black-refurbished\",
+    \"title\": \"Watch Ultra 1 49mm Titanium Case - Silver/Black (Refurbished)\",
+    \"description\": \"Watch Ultra 1 49mm Titanium Case - Silver/Black (Refurbished)\",
+    \"descriptionHtml\": \"<p>Watch Ultra 1 49mm Titanium Case - Silver/Black (Refurbished)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 1 49mm Titanium Case - Silver/Black (Refurbished)\",
+      \"url\": \"/product_images/watch/0676634_665778.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"404.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"404.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 1 49mm Titanium Case - Silver/Black (Refurbished)\",
+        \"url\": \"/product_images/watch/0676634_665778.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-1-49mm-titanium-case-silver-black-refurbished-49-1\",
+        \"title\": \"Watch Ultra 1 49mm Titanium Case - Silver/Black (Refurbished)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"404.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-3-49mm-bluetooth-cellular-black-50\",
+    \"handle\": \"watch-ultra-3-49mm-bluetooth-cellular-black\",
+    \"title\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+    \"description\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+    \"descriptionHtml\": \"<p>Watch Ultra 3 49mm Bluetooth Cellular - Black</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+      \"url\": \"/product_images/watch/0701413_925024.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"799.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+        \"url\": \"/product_images/watch/0701413_925024.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-3-49mm-bluetooth-cellular-black-50-1\",
+        \"title\": \"Watch Ultra 3 49mm Bluetooth Cellular - Black\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"799.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-11-gps-42mm-bluetooth-jet-black-51\",
+    \"handle\": \"watch-series-11-gps-42mm-bluetooth-jet-black\",
+    \"title\": \"Watch Series 11 GPS 42mm Bluetooth - Jet Black\",
+    \"description\": \"Watch Series 11 GPS 42mm Bluetooth - Jet Black\",
+    \"descriptionHtml\": \"<p>Watch Series 11 GPS 42mm Bluetooth - Jet Black</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 11 GPS 42mm Bluetooth - Jet Black\",
+      \"url\": \"/product_images/watch/0701347_924928.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"399.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"399.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 11 GPS 42mm Bluetooth - Jet Black\",
+        \"url\": \"/product_images/watch/0701347_924928.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-11-gps-42mm-bluetooth-jet-black-51-1\",
+        \"title\": \"Watch Series 11 GPS 42mm Bluetooth - Jet Black\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"399.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-3-gps-49mm-cellular-bluetooth-natural-titanium-case-with-natural-titanium-milanese-loop-m-l-52\",
+    \"handle\": \"watch-ultra-3-gps-49mm-cellular-bluetooth-natural-titanium-case-with-natural-titanium-milanese-loop-m-l\",
+    \"title\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Natural Titanium Milanese Loop (M/L)\",
+    \"description\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Natural Titanium Milanese Loop (M/L)\",
+    \"descriptionHtml\": \"<p>Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Natural Titanium Milanese Loop (M/L)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Natural Titanium Milanese Loop (M/L)\",
+      \"url\": \"/product_images/watch/0701406_925776.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"899.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Natural Titanium Milanese Loop (M/L)\",
+        \"url\": \"/product_images/watch/0701406_925776.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-3-gps-49mm-cellular-bluetooth-natural-titanium-case-with-natural-titanium-milanese-loop-m-l-52-1\",
+        \"title\": \"Watch Ultra 3 GPS 49mm Cellular Bluetooth - Natural Titanium Case with Natural Titanium Milanese Loop (M/L)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"899.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-series-10-gps-46mm-silver-aluminum-case-with-blue-cloud-sport-loop-53\",
+    \"handle\": \"watch-series-10-gps-46mm-silver-aluminum-case-with-blue-cloud-sport-loop\",
+    \"title\": \"Watch Series 10 GPS 46mm Silver Aluminum Case with Blue Cloud Sport Loop\",
+    \"description\": \"Watch Series 10 GPS 46mm Silver Aluminum Case with Blue Cloud Sport Loop\",
+    \"descriptionHtml\": \"<p>Watch Series 10 GPS 46mm Silver Aluminum Case with Blue Cloud Sport Loop</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Series 10 GPS 46mm Silver Aluminum Case with Blue Cloud Sport Loop\",
+      \"url\": \"/product_images/watch/0686040_757583.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"332.09\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"332.09\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Series 10 GPS 46mm Silver Aluminum Case with Blue Cloud Sport Loop\",
+        \"url\": \"/product_images/watch/0686040_757583.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-series-10-gps-46mm-silver-aluminum-case-with-blue-cloud-sport-loop-53-1\",
+        \"title\": \"Watch Series 10 GPS 46mm Silver Aluminum Case with Blue Cloud Sport Loop\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"332.09\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  },
+  {
+    \"id\": \"watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-white-ocean-band-m-l-refurbished-54\",
+    \"handle\": \"watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-white-ocean-band-m-l-refurbished\",
+    \"title\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with White Ocean Band - M/L (Refurbished)\",
+    \"description\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with White Ocean Band - M/L (Refurbished)\",
+    \"descriptionHtml\": \"<p>Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with White Ocean Band - M/L (Refurbished)</p>\",
+    \"categoryId\": \"watch\",
+    \"tags\": [],
+    \"featuredImage\": {
+      \"altText\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with White Ocean Band - M/L (Refurbished)\",
+      \"url\": \"/product_images/watch/0702288_934851.jpg\",
+      \"width\": 1200,
+      \"height\": 1200
+    },
+    \"availableForSale\": true,
+    \"currencyCode\": \"USD\",
+    \"priceRange\": {
+      \"maxVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      },
+      \"minVariantPrice\": {
+        \"amount\": \"499.99\",
+        \"currencyCode\": \"USD\"
+      }
+    },
+    \"images\": [
+      {
+        \"altText\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with White Ocean Band - M/L (Refurbished)\",
+        \"url\": \"/product_images/watch/0702288_934851.jpg\",
+        \"width\": 1200,
+        \"height\": 1200
+      }
+    ],
+    \"options\": [],
+    \"seo\": {
+      \"title\": \"\",
+      \"description\": \"\"
+    },
+    \"variants\": [
+      {
+        \"id\": \"watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-white-ocean-band-m-l-refurbished-54-1\",
+        \"title\": \"Watch Ultra 2 GPS Cellular 49mm Natural Titanium Case with White Ocean Band - M/L (Refurbished)\",
+        \"availableForSale\": true,
+        \"selectedOptions\": [],
+        \"price\": {
+          \"amount\": \"499.99\",
+          \"currencyCode\": \"USD\"
+        }
+      }
+    ]
+  }
+];
